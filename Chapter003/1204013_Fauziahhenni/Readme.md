@@ -1,0 +1,1 @@
+Link youtube chapter 2 : https://youtu.be/4Pl0Ro6qfXc
