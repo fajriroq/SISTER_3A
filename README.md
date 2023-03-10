@@ -8,5 +8,5 @@ Data Kelompok
 4. 1204007 Wulan Nur Annisah, 1204021 Mayke Andani Rohmaniar
 5. 1204013 Fauziah Henni Hasibuan, 1204026 Haryadi Yusuf
 6. 1204022 Hanan Destiarin Kishendrian, 1204014 Anita Alfi Syahra
-7. 1204011 Wildan Azril Arvany, 1204010 Azhari Hasibuan
-8. 10. 1204008 Anggina Syarif, 1204009 Dani Rahman Hasibuan, 1204019 Adli Gunawan Bastin
+7. 1204011 Wildan Azril Arvany, 1204010 Azhari Hasibuan, 1204020	Muhammad Nur Fajri
+8. 1204008 Anggina Syarif, 1204009 Dani Rahman Hasibuan, 1204019 Adli Gunawan Bastin
