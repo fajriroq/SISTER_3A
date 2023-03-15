@@ -1,0 +1,1 @@
+video sinkronisasi clock : https://youtu.be/riLvYUZA8a8
