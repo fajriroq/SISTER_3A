@@ -1,0 +1,1 @@
+https://youtu.be/mbSc4T0eqYs -- LINK VIDEO SINKRONISASI
