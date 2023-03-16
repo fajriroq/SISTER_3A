@@ -4,3 +4,5 @@ Pada awal program, diinisialisasi daftar pegawai dan waktu kerja masing-masing p
 Program selanjutnya membuat objek thread untuk setiap pegawai yang akan digaji dan dimasukkan ke dalam list threads. Objek queue juga dibuat untuk mengumpulkan hasil total gaji setiap pegawai.
 Ketika semua objek thread telah dibuat, program memberikan sinyal untuk menunggu selama 3 detik sebelum memulai proses penggajian. Kemudian, program memulai setiap thread untuk menjalankan proses penggajian.
 Setelah semua penggajian selesai, program akan menjumlahkan total gaji dari setiap pegawai dan mencetak hasilnya. Program juga menghitung selisih waktu dan mencetak waktu yang dibutuhkan untuk menjalankan proses penggajian.
+
+![gambarscreenshoot](program.png)
