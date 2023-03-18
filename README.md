@@ -2,7 +2,7 @@
 Tugas, Dll Upload disini semua
 ## Materi Perkilahan
 | No | Materi Perkuliahan |
-| .........| .............|
+| -------- | -------- |
 | 1| https://github.com/kerjabhakti/Python-Pararel_SISTER |
 
 ## Data Kelompok
