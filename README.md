@@ -1,7 +1,11 @@
 # SISTER_3A
 Tugas, Dll Upload disini semua
+## Materi Perkilahan
+| No | Materi Perkuliahan |
+| .........| .............|
+| 1| https://github.com/kerjabhakti/Python-Pararel_SISTER |
 
-Data Kelompok
+## Data Kelompok
 1. 1204016 Dani Ardika Rahmadani, 1204017 Surahmat
 2. 1204004 Jose Chasey Pratama, 1204025 Christian Yuda Pratama
 3. 1204027 Mustika Tiara Triani Br.Sirait, 1204003 Kholida Magfirah
