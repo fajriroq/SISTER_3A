@@ -7,7 +7,6 @@
 * Kerjakan masing-masing Mahasiswa 1 FIle MPI
 * jalankan dan deskripsikan pada README.md nya
 
-contohnya
 ``python
 from mpi4py import MPI
 
@@ -26,8 +25,6 @@ source_process = 5
     print ("sending data %s " %data_send + \
            "to process %d" %destination_process)
     print ("data received is = %s" %data_received)
-
-
 
 if rank==5:
 data_send= "b"
