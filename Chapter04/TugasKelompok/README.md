@@ -1,11 +1,10 @@
 # Tugas Pertemuan ke 6
 
-- Silahkan buat folder Kelompok (KM)
-
-* Dalam Folder kelompok buat Folder masing-masing anggota
-* Buat FOlder NPM_Nama
+* Silahkan buat folder Kelompok (KM)
+* Dalam Folder kelompok buat Folder masing-masing anggota (NPM_Nama)
 * Kerjakan masing-masing Mahasiswa 1 FIle MPI
 * jalankan dan deskripsikan pada README.md nya
+* Deskripsi (I File MPI dan Readme.md)
 
 ```python
 from mpi4py import MPI
@@ -31,7 +30,6 @@ source_process = 1
            "to process %d" %destination_process)
     print ("data received is = %s" %data_received)
 ```
-
 
 #Keterangan Tugas
 Buat Readmenya dan screenshoot hasilnya
