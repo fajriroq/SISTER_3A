@@ -7,7 +7,7 @@
 * Kerjakan masing-masing Mahasiswa 1 FIle MPI
 * jalankan dan deskripsikan pada README.md nya
 
-``python
+```python
 from mpi4py import MPI
 comm=MPI.COMM_WORLD
 rank = comm.rank
@@ -31,6 +31,8 @@ source_process = 1
            "to process %d" %destination_process)
     print ("data received is = %s" %data_received)
 ```
+
+
 #Keterangan Tugas
 Buat Readmenya dan screenshoot hasilnya
 Deskripsikan dengan lengkap
