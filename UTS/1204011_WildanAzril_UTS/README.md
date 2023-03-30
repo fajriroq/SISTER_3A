@@ -14,10 +14,10 @@ Studi Kasus yang digunakan yaitu pada bidang Distribusi Logistik. Dalam pengguna
 
 3. Mengimplementasikan MPI4PY dengan menggunakan PTPC. Dalam program ini mengimplementasikan penjual akan melakukan pengiriman barang menuju alamat yang dituju dan memberikan informasi barang telah selesai dikirimkan. 
 
-Output menggunakan MPI4PY :
+Output tanpa menggunakan MPI4PY :
 
 ![](Hasil3.1.png)
 
-Output tanpa menggunakan MPI4PY :
+Output menggunakan MPI4PY :
 
 ![](Hasil3.2.png)
