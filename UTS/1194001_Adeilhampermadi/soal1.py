@@ -1,46 +1,39 @@
 import multiprocessing
-import random
 import time
 
-def buy_crypto(crypto_name, amount, price):
-    # Simulasi proses pembelian crypto
-    print(f"Proses pembelian {amount} {crypto_name} dengan harga {price} dimulai...")
-    # Proses pembelian berlangsung selama 3 detik
-    time.sleep(3)
-    print(f"Proses pembelian {amount} {crypto_name} dengan harga {price} selesai.")
-    print(f"Transaksi pembelian {amount} {crypto_name} senilai {amount*price} berhasil dilakukan.")
+def book_ticket(passenger_name, ticket_id, departure_date, destination):
+    # Simulasi proses pemesanan tiket bus
+    print(f"Proses pemesanan tiket dengan ID {ticket_id} oleh {passenger_name} dimulai...")
+    # Proses pemesanan tiket berlangsung selama 2 detik
+    time.sleep(2)
+    print(f"Proses pemesanan tiket dengan ID {ticket_id} oleh {passenger_name} selesai.")
+    print(f"Tiket untuk {passenger_name} pada tanggal {departure_date} ke {destination} telah berhasil dipesan.")
 
-def sell_crypto(crypto_name, amount, price):
-    # Simulasi proses penjualan crypto
-    print(f"Proses penjualan {amount} {crypto_name} dengan harga {price} dimulai...")
-    # Proses penjualan berlangsung selama 3 detik
-    time.sleep(3)
-    print(f"Proses penjualan {amount} {crypto_name} dengan harga {price} selesai.")
-    print(f"Transaksi penjualan {amount} {crypto_name} senilai {amount*price} berhasil dilakukan.")
+def process_1():
+    passenger_name = 'John'
+    ticket_id = 'T001'
+    departure_date = '2023-04-01'
+    destination = 'Jakarta'
+    book_ticket(passenger_name, ticket_id, departure_date, destination)
+
+def process_2():
+    passenger_name = 'Jane'
+    ticket_id = 'T002'
+    departure_date = '2023-04-02'
+    destination = 'Surabaya'
+    book_ticket(passenger_name, ticket_id, departure_date, destination)
 
 if __name__ == '__main__':
-    # List crypto yang tersedia
-    crypto_list = ['BTC', 'ETH', 'LTC', 'BCH', 'XRP']
+    # Membuat proses anak menggunakan multiprocessing.Process()
+    p1 = multiprocessing.Process(target=process_1)
+    p2 = multiprocessing.Process(target=process_2)
 
-    # Spawn child process untuk setiap transaksi crypto
-    for i in range(10):
-        # Pilih jenis transaksi secara acak
-        transaksi = random.choice(['beli', 'jual'])
+    # Menjalankan proses anak menggunakan metode .start()
+    p1.start()
+    p2.start()
 
-        # Pilih jenis crypto secara acak
-        crypto_name = random.choice(crypto_list)
+    # Menunggu proses anak selesai menggunakan metode .join()
+    p1.join()
+    p2.join()
 
-        # Pilih jumlah crypto secara acak
-        amount = random.randint(1, 10)
-
-        # Pilih harga crypto secara acak
-        price = random.uniform(10000, 50000)
-
-        # Buat child process untuk setiap transaksi
-        if transaksi == 'beli':
-            p = multiprocessing.Process(target=buy_crypto, args=(crypto_name, amount, price))
-        else:
-            p = multiprocessing.Process(target=sell_crypto, args=(crypto_name, amount, price))
-
-        # Mulai child process
-        p.start()
+    print("Semua proses pemesanan tiket bus selesai.")
