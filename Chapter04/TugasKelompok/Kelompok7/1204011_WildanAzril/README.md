@@ -12,8 +12,14 @@ Pada akhir program, jika proses saat ini memiliki rank 0, maka akan dilakukan it
 
 Output :
 Tanpa MPI
+
+
 ![](Py.png)
 
 
+
+
 Dengan MPI
+
+
 ![](MPI.png)
