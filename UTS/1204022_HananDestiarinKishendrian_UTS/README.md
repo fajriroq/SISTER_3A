@@ -13,5 +13,5 @@ pada test kali ini saya mengambil studi kasus tentang stok barang tersedia dan t
    menggunakan py mpi.py :
    ![](Screenshot (1068).png)
 
-menggunakan mpiexec -n 9 python mpi.py :
-![](Screenshot (1069).png)
+   menggunakan mpiexec -n 9 python mpi.py :
+   ![](Screenshot (1069).png)
