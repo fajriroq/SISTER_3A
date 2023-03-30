@@ -11,6 +11,8 @@ Setiap proses yang bukan rank 0 akan melakukan proses pengiriman barang dengan m
 Pada akhir program, jika proses saat ini memiliki rank 0, maka akan dilakukan iterasi pada konfirmasi untuk menampilkan hasil konfirmasi pengiriman dari seluruh rank. Nama barang yang akan dikirimkan diambil dari list nama_barang yang sudah didefinisikan sebelumnya dengan fungsi random.choice().
 
 Output :
+
+
 Tanpa MPI
 
 
