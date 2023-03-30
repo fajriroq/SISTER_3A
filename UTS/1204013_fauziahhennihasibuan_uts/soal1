@@ -1,0 +1,29 @@
+import multiprocessing
+import time
+import random
+import datetime
+
+def penjualan_barang(barang):
+    waktu = random.randint(1, 5) # waktu penjualan
+    print(f"[{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Mulai menjual {barang}, waktu penjualan {waktu} detik")
+    time.sleep(waktu)
+    print(f"[{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] {barang} berhasil terjual")
+
+def spawn_processes(func, args_list):
+    processes = []
+    for args in args_list:
+        process = multiprocessing.Process(target=func, args=args)
+        processes.append(process)
+        process.start()
+
+    for process in processes:
+        process.join()
+
+if __name__ == "__main__":
+    # list barang yang dijual
+    list_barang = ["Baju", "Celana", "Sepatu", "Topi", "Kacamata"]
+    
+    # spawn proses penjualan
+    spawn_processes(penjualan_barang, [(barang,) for barang in list_barang])
+
+    print(f"[{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Penjualan selesai")

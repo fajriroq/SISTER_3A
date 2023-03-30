@@ -1,0 +1,29 @@
+import multiprocessing
+import time
+import random
+import datetime
+
+def penjualan_barang(barang):
+    waktu = random.randint(1, 5) # waktu penjualan
+    print(f"[{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Mulai menjual {barang}, waktu penjualan {waktu} detik")
+    time.sleep(waktu)
+    print(f"[{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] {barang} berhasil terjual")
+
+if __name__ == "__main__":
+    # list barang yang dijual
+    list_barang = ["Baju", "Celana", "Sepatu", "Topi", "Kacamata"]
+    
+    # inisialisasi proses
+    proses_penjualan = []
+
+    # menjual setiap barang dalam list
+    for barang in list_barang:
+        proses = multiprocessing.Process(target=penjualan_barang, args=(barang,))
+        proses_penjualan.append(proses)
+        proses.start()
+
+    # tunggu hingga proses selesai
+    for proses in proses_penjualan:
+        proses.join()
+
+    print(f"[{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Penjualan selesai")
