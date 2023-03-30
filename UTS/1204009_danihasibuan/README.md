@@ -1,10 +1,5 @@
-# Ujian Tengah Semester
+![test1](https://user-images.githubusercontent.com/87587748/228934045-4e2876d5-561b-42cd-8b79-05573191c5eb.png)
 
-Silahkan kerjakan soal yang sudah di bagikan
+![test2](https://user-images.githubusercontent.com/87587748/228934060-8f1fdeab-33b0-4fe6-ade8-2bab9b021afc.png)
 
-1. Kerjakan soal
-2. Buat folder dengan nama "NPM_NAMA_UTS"
-3. langsung lakukan pull request pada repo ini dan masukan ke folder UTS
-4. Batas waktu full request Pukul 16:00 WIB
-
-Selamat Mengerjakan
+![test3](https://user-images.githubusercontent.com/87587748/228934083-a4868817-08bb-4515-bb5e-b6f5c7c30987.png)
