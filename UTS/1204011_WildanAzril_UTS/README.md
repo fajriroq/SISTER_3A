@@ -7,7 +7,7 @@ Studi Kasus yang digunakan yaitu pada bidang Distribusi Logistik. Dalam pengguna
 ![](Hasil1.png)
 
 
-2. Program ini mengimplementasikan sebuah simulasi pengiriman barang dengan menggunakan tiga proses yang berjalan secara paralel.Diantaranya proses mulai melakukan pengiriman barang, proses barang berhasil dikirimkan, dan barang dikirimkan ke alamat yanhg sesuai.  Outputnya :
+2. Program ini mengimplementasikan sebuah simulasi pengiriman barang dengan menggunakan tiga proses yang berjalan secara paralel. Diantaranya proses mulai melakukan pengiriman barang, proses barang berhasil dikirimkan, dan barang dikirimkan ke alamat yang sesuai.  Outputnya :
 
 ![](Hasil2.png)
 
