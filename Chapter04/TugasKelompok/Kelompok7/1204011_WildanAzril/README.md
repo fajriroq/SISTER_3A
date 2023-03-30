@@ -12,7 +12,7 @@ Pada akhir program, jika proses saat ini memiliki rank 0, maka akan dilakukan it
 
 Output :
 Tanpa MPI
-image.png
+![](PY.png)
 
 Dengan MPI
-image.png
+![](MPI.png)
