@@ -10,35 +10,35 @@ def payment(amount, payment_method):
 
 if __name__ == '__main__':
     comm = MPI.COMM_WORLD
-    rank = comm.Get_rank()
+    rank = comm.rank
     print("My rank is:", rank)
 
     if rank == 0:
         # Data untuk proses pembayaran rental mobil pertama
         amount = 50000
         payment_method = 'OVO'
-        destination_process = 2
+        destination_process = 1
 
         # Kirim data ke proses tujuan
         comm.send((amount, payment_method), dest=destination_process)
         print(f"Process {rank} mengirim data {amount} dan {payment_method} ke process {destination_process}")
 
-    if rank == 1:
-        # Data untuk proses pembayaran rental mobil kedua
-        amount = 75000
-        payment_method = 'GOPAY'
-        destination_process = 2
+    if 0 < rank < 7:
+        # Menerima data dari process sebelumnya
+        amount, payment_method = comm.recv(source=rank-1)
+        # Data untuk proses pembayaran rental mobil selanjutnya
+        amount += 5000
+        payment_method = 'DANA'
+        destination_process = rank+1
 
         # Kirim data ke proses tujuan
         comm.send((amount, payment_method), dest=destination_process)
-        print(f"Process {rank} mengirim data {amount} dan {payment_method} ke process {destination_process}")
+        print(f"Process {rank} menerima data {amount-5000} dan {payment_method} dari process {rank-1} dan mengirim data {amount} dan {payment_method} ke process {destination_process}")
 
-    if rank == 2:
-        # Terima data dari process 0
-        amount, payment_method = comm.recv(source=0)
+    if rank == 7:
+        # Menerima data dari process sebelumnya
+        amount, payment_method = comm.recv(source=rank-1)
         # Lakukan pembayaran rental mobil
         payment(amount, payment_method)
-        # Terima data dari process 1
-        amount, payment_method = comm.recv(source=1)
-        # Lakukan pembayaran rental mobil
-        payment(amount, payment_method)
+        print(f"Process {rank} menerima data {amount} dan {payment_method} dari process {rank-1} dan melakukan pembayaran")
+
