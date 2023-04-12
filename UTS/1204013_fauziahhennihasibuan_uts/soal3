@@ -1,0 +1,40 @@
+from multiprocessing import Process, Queue
+
+# Fungsi untuk memproses pesanan
+def process_order(order, results):
+    # Lakukan pemrosesan pesanan di sini
+    # Misalnya, hitung harga total pesanan dan simpan di variabel total
+    total = order["jumlah"] * order["harga"]
+    # Tambahkan total penjualan ke antrian hasil
+    results.put(total)
+
+# Main program
+if __name__ == "__main__":
+    # Inisialisasi data pesanan
+    orders = [
+        {"baju": "topi", "jumlah": 10, "harga": 20000},
+        {"baju": "sepatu", "jumlah": 20, "harga": 1000},
+        {"baju": "celana", "jumlah": 15, "harga": 3000},
+    ]
+
+    # Buat antrian hasil untuk menyimpan total penjualan
+    results = Queue()
+
+    # Buat proses untuk memproses setiap pesanan
+    processes = []
+    for order in orders:
+        p = Process(target=process_order, args=(order, results))
+        p.start()
+        processes.append(p)
+
+    # Tunggu semua proses selesai
+    for p in processes:
+        p.join()
+
+    # Hitung total penjualan dari hasil di antrian
+    total_sales = 0
+    while not results.empty():
+        total_sales += results.get()
+
+    # Tampilkan total penjualan
+    print(f"Total penjualan: Rp {total_sales}")
