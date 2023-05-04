@@ -23,7 +23,7 @@ Tugas, Dll Upload disini semua
 | 3 | 1194049 | M.HadiSyatiri |60 |
 | 4 | 1204003 | Kholida Magfirah |100 |
 | 5 | 1204004 | Jose Chasey Pratama |100 |
-| 6 | 1204007 | Wulan Nur Annisah |60 |
+| 6 | 1204007 | Wulan Nur Annisah |85 |
 | 7 | 1204008 | Anggina Syarif |100 |
 | 8 | 1204009 | Dani Hasibuan |80 |
 | 9 | 1204010 | Azhari Hasibuan |70 |
