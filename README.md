@@ -14,3 +14,7 @@ Tugas, Dll Upload disini semua
 6. 1204022 Hanan Destiarin Kishendrian, 1204014 Anita Alfi Syahra
 7. 1204011 Wildan Azril Arvany, 1204010 Azhari Hasibuan, 1204020	Muhammad Nur Fajri
 8. 1204008 Anggina Syarif, 1204009 Dani Rahman Hasibuan, 1204019 Adli Gunawan Bastin
+
+## Nilai 
+| No | NPM | NAMA | UTS |
+| -------- | -------- |-------- |-------- |
