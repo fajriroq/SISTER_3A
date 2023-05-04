@@ -38,7 +38,7 @@ Tugas, Dll Upload disini semua
 | 18 | 1204022 | Hanan Destiarin Kishendrian  |100 |
 | 19 | 1204025 | Christian Yuda Pratama  |100 |
 | 20 | 1204026 | Haryadi Yusuf  |100 |
-| 21 | 1204027 | Mustika Tiara Triani Br Sirait  |60 |
+| 21 | 1204027 | Mustika Tiara Triani Br Sirait  |85 |
 
 
 
