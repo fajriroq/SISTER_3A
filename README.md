@@ -18,3 +18,4 @@ Tugas, Dll Upload disini semua
 ## Nilai 
 | No | NPM | NAMA | UTS |
 | -------- | -------- |-------- |-------- |
+| 1 | 1194001 | Adeilhampermadi |60 | 
