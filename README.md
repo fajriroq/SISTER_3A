@@ -23,7 +23,7 @@ Tugas, Dll Upload disini semua
 | 3 | 1194049 | M.HadiSyatiri |60 |
 | 4 | 1204003 | Kholida Magfirah |100 |
 | 5 | 1204004 | Jose Chasey Pratama |100 |
-| 6 | 1204007 | Wulan Nur Annisah |60 |
+| 6 | 1204007 | Wulan Nur Annisah |85 |
 | 7 | 1204008 | Anggina Syarif |100 |
 | 8 | 1204009 | Dani Hasibuan |80 |
 | 9 | 1204010 | Azhari Hasibuan |70 |
@@ -38,7 +38,7 @@ Tugas, Dll Upload disini semua
 | 18 | 1204022 | Hanan Destiarin Kishendrian  |100 |
 | 19 | 1204025 | Christian Yuda Pratama  |100 |
 | 20 | 1204026 | Haryadi Yusuf  |100 |
-| 21 | 1204027 | Mustika Tiara Triani Br Sirait  |60 |
+| 21 | 1204027 | Mustika Tiara Triani Br Sirait  |85 |
 
 
 
