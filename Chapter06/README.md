@@ -4,5 +4,7 @@
 3. Studi Kasus untuk masing-masing project (Bobot 30)
 4. Buat video penjelasannya (Upload pada youtube masing-masing) - link sertakan pada Readme.md diatas (Bobot 15)
 5. Editing Video (Bobot 15)
+6. Minggu depan wajib dipresentasikan (random)
 
-Selamat mengerjakan
+**Batas waktu pengumpulan tugas H-1 Perkuliahan
+**Selamat mengerjakan
