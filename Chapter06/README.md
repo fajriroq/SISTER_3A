@@ -6,5 +6,6 @@
 5. Editing Video (Bobot 15)
 6. Minggu depan wajib dipresentasikan (random)
 
-**Batas waktu pengumpulan tugas H-1 Perkuliahan
-**Selamat mengerjakan
+**Batas waktu pengumpulan tugas H-1 Perkuliahan**
+
+**Selamat mengerjakan**
