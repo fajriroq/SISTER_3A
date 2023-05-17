@@ -1,6 +1,7 @@
 
 
-Link yete: 
+## Link yete: https://youtu.be/IkHnduJ8Dbc
+
 # Celery
 penjelasan: Celery adalah sebuah sistem antrian tugas (task queue) yang terdistribusi. Ia memungkinkan Anda untuk membagi pekerjaan menjadi tugas-tugas yang lebih kecil dan menyebarluaskannya ke beberapa pekerja atau worker. Celery menggunakan broker message queue seperti RabbitMQ atau Redis untuk mengirim pesan antara komponen-komponennya.
 
