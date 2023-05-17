@@ -24,3 +24,7 @@ Server menerima koneksi dari client dan menerima pesan dari client. Setelah itu,
 
 Client menghubungkan dirinya ke server dan meminta pengguna memasukkan pesan. Pesan tersebut dikirim ke server, dan client menerima respons dari server. Respons tersebut kemudian ditampilkan ke pengguna.
 [ini gambar socket](socket.PNG)
+
+
+LINK VIDEO YOUTUBE = [TUGAS CHAPTER 6](https://youtu.be/olVWth-L3po)
+https://youtu.be/olVWth-L3po
