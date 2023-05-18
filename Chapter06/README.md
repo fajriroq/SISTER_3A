@@ -21,10 +21,10 @@ penjelasan: Pyro4 adalah sebuah library Python yang menyediakan mekanisme remote
 
 
 client res
-![f20868cd-7690-4724-a7b8-a3d5b268feed](https://github.com/fajriroq/SISTER_3A/assets/86406309/6caf667a-d7ad-4481-bd65-b24fbfd298cf)
+![image]!![f20868cd-7690-4724-a7b8-a3d5b268feed](https://github.com/fajriroq/SISTER_3A/assets/86406309/6caf667a-d7ad-4481-bd65-b24fbfd298cf)
 
 server res
-![dc73a7de-bd85-400b-bc43-a05e1c1658a1](https://github.com/fajriroq/SISTER_3A/assets/86406309/24bd603d-2d1b-416d-8d33-f8d4b35b74af)
+![image]!![dc73a7de-bd85-400b-bc43-a05e1c1658a1](https://github.com/fajriroq/SISTER_3A/assets/86406309/24bd603d-2d1b-416d-8d33-f8d4b35b74af)
 
 
 # Socket
