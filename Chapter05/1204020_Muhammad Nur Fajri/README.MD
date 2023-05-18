@@ -1,0 +1,5 @@
+![783c6e9f-3a48-496b-811e-629759d4cb10](https://github.com/fajriroq/SISTER_3A/assets/86406309/db257601-4ef3-455f-b12c-e3b4bcde0f4b)
+![e8070ae2-b097-4f1b-9332-46eafc67e766](https://github.com/fajriroq/SISTER_3A/assets/86406309/66fd769a-7cb6-4803-8595-d6de62985e0b)
+![9e54878c-cbf1-49b0-a43e-1acfa12a077a](https://github.com/fajriroq/SISTER_3A/assets/86406309/45797ce6-1fbe-4a63-9b00-7f6c1e7a757f)
+![e3a1437e-e86e-4b5d-b519-405b78d736ab](https://github.com/fajriroq/SISTER_3A/assets/86406309/5ef76163-2fe0-4867-9401-d09456211be6)
+![4e94bb42-05da-4120-b476-0395e897cf96](https://github.com/fajriroq/SISTER_3A/assets/86406309/4622ff6c-9d2c-438e-9543-430bb3935e20)
