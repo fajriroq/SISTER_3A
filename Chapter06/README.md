@@ -19,7 +19,7 @@ error
 # Pyro4
 penjelasan: Pyro4 adalah sebuah library Python yang menyediakan mekanisme remote procedure call (RPC) atau pemanggilan prosedur jarak jauh. Dengan menggunakan Pyro4, Anda dapat memanggil fungsi atau metode yang ada di komputer atau proses yang terpisah melalui jaringan. Pyro4 menyediakan abstraksi yang nyaman untuk komunikasi antarproses di dalam sistem tersebar.
 
-studi kasus: percakapan antar tetangga
+
 client res
 ![f20868cd-7690-4724-a7b8-a3d5b268feed](https://github.com/fajriroq/SISTER_3A/assets/86406309/6caf667a-d7ad-4481-bd65-b24fbfd298cf)
 
