@@ -7,7 +7,7 @@ Rincian TB terdiri dari
 3. Setiap mahasiswa Push pada repo kelompoknya masing-masing (project + readme)
 4. Hasil akan dijadikan sebuah buku (lihat template bukped) - deskripsi teori dimasukan pada readme perchapter
 
-## Data Kelompok
+## Data Kelompok - Tuliskan Judulnya dibawah ini
 
 1. 1204016 Dani Ardika Rahmadani, 1204017 Surahmat (Judul)
 2. 1204004 Jose Chasey Pratama, 1204025 Christian Yuda Pratama
