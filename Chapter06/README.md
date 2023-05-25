@@ -40,7 +40,7 @@ server res
 Yang sudah presentasi
 
 ## N
-| No | NPM | NAMA | UTS | Presentasi |
+| No | NPM | NAMA | UTS | Presentasi Chapter 06 |
 | -------- | -------- |-------- |-------- |-------- |
 | 1 | 1194001 | Adeilhampermadi |60 | |
 | 2 | 1194046 | IlhamAmbarRochmat |60 ||
