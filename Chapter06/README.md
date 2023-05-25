@@ -36,3 +36,40 @@ client res
 server res
 ![d279813f-f53f-4acc-a6f9-f80a56fc467e](https://github.com/fajriroq/SISTER_3A/assets/86406309/c19adc9e-2cfc-42fe-8dba-e7a55f798f63)
 
+
+Yang sudah presentasi
+
+## N
+| No | NPM | NAMA | UTS | Presentasi |
+| -------- | -------- |-------- |-------- |-------- |
+| 1 | 1194001 | Adeilhampermadi |60 | |
+| 2 | 1194046 | IlhamAmbarRochmat |60 ||
+| 3 | 1194049 | M.HadiSyatiri |60 ||
+| 4 | 1204003 | Kholida Magfirah |100 |sudah|
+| 5 | 1204004 | Jose Chasey Pratama |100 ||
+| 6 | 1204007 | Wulan Nur Annisah |85 ||
+| 7 | 1204008 | Anggina Syarif |100 ||
+| 8 | 1204009 | Dani Hasibuan |80 ||
+| 9 | 1204010 | Azhari Hasibuan |70 ||
+| 10 | 1204011 | Wildan Azril |100 ||
+| 11 | 1204013 | Fauziah Henni Hasibuan |75 ||
+| 12 | 1204014 | Anita Alfi Syahra |60 ||
+| 13 | 1204016 | Dani Ardika  |75 ||
+| 14 | 1204017 | Surahmat  |75 ||
+| 15 | 1204019 | Adli Gunawan Bastin  |75 ||
+| 16 | 1204020 | Muhammad Nur Fajri  |75 ||
+| 17 | 1204021 | Mayke Andani Rohmaniar  |80 ||
+| 18 | 1204022 | Hanan Destiarin Kishendrian  |100 |sudah|
+| 19 | 1204025 | Christian Yuda Pratama  |100 |sudah|
+| 20 | 1204026 | Haryadi Yusuf  |100 ||
+| 21 | 1204027 | Mustika Tiara Triani Br Sirait  |85 ||
+
+
+
+
+
+
+
+
+
+
