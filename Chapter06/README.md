@@ -1,7 +1,7 @@
 
-Yang sudah presentasi
+## Yang sudah presentasi
 
-## N
+
 | No | NPM | NAMA | Presentasi Chapter 06 |
 | -------- | -------- |-------- |-------- |
 | 1 | 1194001 | Adeilhampermadi | |
