@@ -14,7 +14,7 @@
 | 8 | 1204009 | Dani Hasibuan |Tidak Mengumpulkan |
 | 9 | 1204010 | Azhari Hasibuan |Tidak Mengumpulkan |
 | 10 | 1204011 | Wildan Azril |sudah|
-| 11 | 1204013 | Fauziah Henni Hasibuan ||
+| 11 | 1204013 | Fauziah Henni Hasibuan | Sudah belum selesai present + test|
 | 12 | 1204014 | Anita Alfi Syahra | Tidak Mengumpulkan |
 | 13 | 1204016 | Dani Ardika  ||
 | 14 | 1204017 | Surahmat   |sudah (celery tidak jalan)|
