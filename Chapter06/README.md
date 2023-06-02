@@ -4,9 +4,9 @@
 
 | No | NPM | NAMA | Presentasi Chapter 06 |
 | -------- | -------- |-------- |-------- |
-| 1 | 1194001 | Adeilhampermadi | |
-| 2 | 1194046 | IlhamAmbarRochmat ||
-| 3 | 1194049 | M.HadiSyatiri ||
+| 1 | 1194001 | Adeilhampermadi |Tidak Mengumpulkan |
+| 2 | 1194046 | IlhamAmbarRochmat |Tidak Mengumpulkan |
+| 3 | 1194049 | M.HadiSyatiri |Tidak Mengumpulkan |
 | 4 | 1204003 | Kholida Magfirah  |sudah|
 | 5 | 1204004 | Jose Chasey Pratama |sudah|
 | 6 | 1204007 | Wulan Nur Annisah  |sudah|
