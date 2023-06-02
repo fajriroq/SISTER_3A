@@ -19,7 +19,7 @@
 | 13 | 1204016 | Dani Ardika  ||
 | 14 | 1204017 | Surahmat   |sudah (celery tidak jalan)|
 | 15 | 1204019 | Adli Gunawan Bastin  |Tidak Mengumpulkan |
-| 16 | 1204020 | Muhammad Nur Fajri  ||
+| 16 | 1204020 | Muhammad Nur Fajri  |Sudah - Beda Push GIT|
 | 17 | 1204021 | Mayke Andani Rohmaniar  |Sudah (test belum)|
 | 18 | 1204022 | Hanan Destiarin Kishendrian  |sudah|
 | 19 | 1204025 | Christian Yuda Pratama  |sudah|
