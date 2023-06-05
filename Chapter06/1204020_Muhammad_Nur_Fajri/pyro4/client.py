@@ -1,12 +1,12 @@
 # client.py
 import Pyro4
 
-uri = input("gaddem uri dulu dong: ")
+uri = input("masukkan uri terlebih dahulu: ")
 
 
-urname=input("ur name type sier: ")
+urname=input("masukkan nama : ")
 gserver = Pyro4.Proxy(uri)
 print(gserver.say_hello(urname))
 print(gserver.do1(urname))
-udoing=input("ur doing sier: ")
+udoing=input("selamat tinggal: ")
 print(gserver.do2(udoing,urname))

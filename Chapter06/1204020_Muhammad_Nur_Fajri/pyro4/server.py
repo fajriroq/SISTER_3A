@@ -5,16 +5,16 @@ import time
 @Pyro4.expose
 class GreetingServer:
     def say_hello(self, name):
-        return f"foo: Apa Kareba, {name}!"
+        return f"foo: Selamat Datang, {name}!"
     def do1(self,name):
         time.sleep(3)
-        return f"foo: Sarangeo, {name}"
+        return f"foo: Sayonara, {name}"
     def do2(self,do2,name):
         time.sleep(3)
         if do2=="turu":
-            return f"foo: Cordoba, {name}"
+            return f"foo: Silahkan Keluar, {name}"
         else:
-            return f"foo: Mantap, {name}"
+            return f"foo: okey, {name}"
 
 daemon = Pyro4.Daemon()
 uri = daemon.register(GreetingServer)
