@@ -5,7 +5,7 @@ Program di atas menggunakan modul multiprocessing untuk melakukan pemesanan tike
 
 
 
-[2](2.png)
+[2](./2.png)
 Program di atas menggunakan modul threading untuk melakukan pemesanan tiket konser secara paralel menggunakan thread. Program ini memiliki fungsi book_ticket yang digunakan untuk memesan tiket konser. Terdapat juga daftar konser yang tersedia. Pemesanan tiket dilakukan oleh beberapa thread secara bersamaan, dan menggunakan objek barrier untuk melakukan sinkronisasi antara thread. Setelah semua thread selesai, program mencetak pesan bahwa pemesanan tiket telah selesai. Dengan menggunakan threading, program ini dapat melakukan pemesanan tiket secara efisien dengan memanfaatkan pemrosesan paralel.
 
 
