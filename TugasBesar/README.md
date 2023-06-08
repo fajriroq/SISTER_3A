@@ -42,7 +42,7 @@ kerjakan perkelompok
 
 | NO | NPM | Nama | Soal 1 | Soal 2 | Soal 3 | Nilai | Keterangan
 | -------- | -------- | -------- | -------- |-------- |-------- | -------- | -------- |
-| 1 | 1204013 | Fauziah Henni Hasibuan |❌|✔️ | ❌| 75|Pengurangan 10 (Readme.md) |
+| 1 | 1204013 | Fauziah Henni Hasibuan |❌|✔️ | ✔️| 75|Pengurangan 10 (Readme.md) |
 | 2 | 1204026 | Haryadi Yusuf  |✔️ | ✔️| ✔️|90 |Pengurangan 10 (Readme.md) |
 | 3 | 1204022 | Hanan Destiarin Kishendrian | | | | | |
 | 4 | 1204014 | Anita Alfi Syahra  | | | | | |
