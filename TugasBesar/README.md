@@ -46,7 +46,10 @@ kerjakan perkelompok
 | 2 | 1204026 | Haryadi Yusuf  |✔️ | ✔️| ✔️|90 |Pengurangan 10 (Readme.md) |
 | 3 | 1204022 | Hanan Destiarin Kishendrian | | | | | |
 | 4 | 1204014 | Anita Alfi Syahra  | | | | | |
-| 3 | 00 | 00 | | | | | |
+| 5 | 1204011 | Wildan Azril Arvany | | | | | |
+| 6 | 1204010 | Azhari Hasibuan | | | | | |
+| 7 | 1204020 | Muhammad Nur Fajri | | | | | |
+| 8 | 00 | 00 | | | | | |
 
 # PRESENTASI KEDUA
 1204008 Anggina Syarif, 1204009 Dani Rahman Hasibuan, 1204019 Adli Gunawan Bastin
