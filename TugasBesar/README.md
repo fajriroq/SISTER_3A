@@ -46,9 +46,9 @@ kerjakan perkelompok
 | 2 | 1204026 | Haryadi Yusuf  |✔️ | ✔️| ✔️|90 |Pengurangan 10 (Readme.md) |
 | 3 | 1204022 | Hanan Destiarin Kishendrian |✔️ |✔️ | ✔️|100 |OK |
 | 4 | 1204014 | Anita Alfi Syahra  | ❌|❌ |❌ |55 | running project saja |
-| 5 | 1204011 | Wildan Azril Arvany | | | | | |
+| 5 | 1204011 | Wildan Azril Arvany | | | |70 | |
 | 6 | 1204010 | Azhari Hasibuan |❌ |❌ |❌ |0 | Tidak Mengerjakan |
-| 7 | 1204020 | Muhammad Nur Fajri | | | | | |
+| 7 | 1204020 | Muhammad Nur Fajri |❌|❌ | ✔️|70 |OK |
 | 8 | 00 | 00 | | | | | |
 
 # PRESENTASI KEDUA
