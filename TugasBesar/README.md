@@ -49,10 +49,10 @@ kerjakan perkelompok
 
 # PRESENTASI CODE TUGAS BESAR KE - 1 (❌/✔️)
 
-| NO | NPM | Nama | Soal 1 | Soal 2 | Soal 3 | Nilai |
-| -------- | -------- | -------- | -------- |-------- |-------- | -------- |
-| 1 | 1204013 | Fauziah Henni Hasibuan | | | | |
-| 2 | 1204026 | Haryadi Yusuf  | | | | |
+| NO | NPM | Nama | Soal 1 | Soal 2 | Soal 3 | Nilai | Keterangan
+| -------- | -------- | -------- | -------- |-------- |-------- | -------- | -------- |
+| 1 | 1204013 | Fauziah Henni Hasibuan | | | | | |
+| 2 | 1204026 | Haryadi Yusuf  | | | | | |
 
 
 
