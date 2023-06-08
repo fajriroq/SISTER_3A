@@ -43,7 +43,7 @@ kerjakan perkelompok
 | NO | NPM | Nama | Soal 1 | Soal 2 | Soal 3 | Nilai | Keterangan
 | -------- | -------- | -------- | -------- |-------- |-------- | -------- | -------- |
 | 1 | 1204013 | Fauziah Henni Hasibuan | | | | | |
-| 2 | 1204026 | Haryadi Yusuf  | | | | | |
+| 2 | 1204026 | Haryadi Yusuf  |✔️ | ✔️| ✔️|90 |Pengurangan 10 (Readme.md) |
 
 
 
