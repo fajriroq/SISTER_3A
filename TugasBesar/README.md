@@ -48,6 +48,6 @@ kerjakan perkelompok
 | 4 | 1204014 | Anita Alfi Syahra  | | | | | |
 | 3 | 00 | 00 | | | | | |
 
-
-
+# PRESENTASI KEDUA
+1204008 Anggina Syarif, 1204009 Dani Rahman Hasibuan, 1204019 Adli Gunawan Bastin
 
