@@ -44,7 +44,7 @@ kerjakan perkelompok
 | -------- | -------- | -------- | -------- |-------- |-------- | -------- | -------- |
 | 1 | 1204013 | Fauziah Henni Hasibuan |❌|✔️ | ✔️| 75|Pengurangan 10 (Readme.md) |
 | 2 | 1204026 | Haryadi Yusuf  |✔️ | ✔️| ✔️|90 |Pengurangan 10 (Readme.md) |
-| 3 | 1204022 | Hanan Destiarin Kishendrian | | | | | |
+| 3 | 1204022 | Hanan Destiarin Kishendrian |✔️ |✔️ | ✔️|100 |OK |
 | 4 | 1204014 | Anita Alfi Syahra  | ❌|❌ |❌ |55 | running project saja |
 | 5 | 1204011 | Wildan Azril Arvany | | | | | |
 | 6 | 1204010 | Azhari Hasibuan | | | | | |
