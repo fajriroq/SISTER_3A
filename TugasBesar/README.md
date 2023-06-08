@@ -19,9 +19,6 @@ Rincian TB terdiri dari
 8. 1204008 Anggina Syarif, 1204009 Dani Rahman Hasibuan, 1204019 Adli Gunawan Bastin
 
 
-
-
-
 # KOMPONEN PENILAIAN
 
 | Pertanyaan   | Presentasi 1x  | Presentasi 2x | 
@@ -30,9 +27,7 @@ Rincian TB terdiri dari
 | 2 | 85 | 70 | 
 | 3 | 70 | 55  |
 | 4 | 55 | 40  |
-
-## Jika Bukunya Publish Nilai 100
-## Submit Aja 80
+**Tanpa README.Md** pada Push TB Nya akan **dikurangi 10 Point**
 
 # RUMUS PEMBAGIAN NILAI ==> (Nilai coding + Buku) / 2 
 
@@ -42,12 +37,7 @@ Rincian TB terdiri dari
 Silahkan pilih studi kasus sesuai dengan judul masing-masing,
 kerjakan perkelompok
 
-
-1.Raul Mahya dan Maulana Dengan Judul Membuat golang CRUD dengan menggunakan Graphql dan mongodb
-
-
-
-# PRESENTASI CODE TUGAS BESAR KE - 1 (❌/✔️)
+# PRESENTASI CODE TUGAS BESAR SISTEM TERSEBAR(❌/✔️)
 
 | NO | NPM | Nama | Soal 1 | Soal 2 | Soal 3 | Nilai | Keterangan
 | -------- | -------- | -------- | -------- |-------- |-------- | -------- | -------- |
