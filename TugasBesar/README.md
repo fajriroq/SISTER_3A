@@ -27,8 +27,8 @@ Rincian TB terdiri dari
 | 2 | 85 | 70 | 
 | 3 | 70 | 55  |
 | 4 | 55 | 40  |
-**Tanpa README.Md** pada Push TB Nya akan **dikurangi 10 Point**
 
+## **Tanpa README.Md** pada Push TB Nya akan **dikurangi 10 Point**
 # RUMUS PEMBAGIAN NILAI ==> (Nilai coding + Buku) / 2 
 
 ![WhatsApp Image 2023-06-08 at 09 57 34](https://github.com/kerjabhakti/WS/assets/98022263/dea9be19-e930-41cb-b91c-fa6ecc5f46e5)
